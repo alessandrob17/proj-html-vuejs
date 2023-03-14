@@ -1,6 +1,6 @@
 <template>
-    <div class="container">
-        <div class="row">
+    <div class="containerr">
+        <div class="roww">
 
             <ul class="r-header">
                 <li>
@@ -25,7 +25,7 @@
      <!-- SECONDA SEZIONE HEADER -->
 
      <div class="container2">
-        <div class="row">
+        <div class="roww">
             <ul class="ul-header">
                 <li>
                     <figure>
@@ -36,7 +36,7 @@
                     <a href="">HOME</a>
                     <a href="">ABOUT</a>
                     <a href="">PRICES</a>
-                    <a href="">COURSES</a>
+                    <a href="">COURSES <span class="new">NEW</span></a>
                     <a href="">LOCATIONS</a>
                     <a href="">BLOG</a>
                     <a class="book-now" href="">BOOK NOW</a>
@@ -80,7 +80,7 @@ a:hover{
 }
 
 
-.container {
+.containerr {
     background-color: #333333;
    
 }
@@ -119,6 +119,14 @@ ul {
 .book-now:hover{
     color: white;
     background-color:  #62c342 ;
+}
+
+.new{
+    background-color: #56b835;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
 }
 
 
