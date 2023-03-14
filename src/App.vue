@@ -20,13 +20,14 @@ export default {
 
 <template>
 <AppHeader></AppHeader>
+<AppMain></AppMain>
 
   
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 
-@import './style/style.scss'
+
 
 
 
