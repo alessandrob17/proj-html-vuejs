@@ -25,7 +25,9 @@ export default {
   
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss" scoped >
+
+ @use './style/style.scss';
 
 
 

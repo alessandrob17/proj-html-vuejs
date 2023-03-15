@@ -98,8 +98,9 @@ ul {
 }
 
 .container2 {
-    background-color: rgba(34, 34, 34, 0.5);;
+    background-color: rgba(34, 34, 34, 0.2);;
     padding: 30px 100px;
+    
     
 }
 
