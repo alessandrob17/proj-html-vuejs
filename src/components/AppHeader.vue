@@ -1,5 +1,5 @@
 <template>
-    <div class="containerr">
+    <!-- <div class="containerr">
         <div class="roww">
 
             <ul class="r-header">
@@ -20,7 +20,7 @@
 
         </div>
 
-    </div>
+    </div> -->
      
      <!-- SECONDA SEZIONE HEADER -->
 
@@ -100,6 +100,8 @@ ul {
 .container2 {
     background-color: rgba(34, 34, 34, 0.2);;
     padding: 30px 100px;
+    position: absolute;
+    width: 100%;
     
     
 }

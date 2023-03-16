@@ -58,7 +58,7 @@
 
 
                         <div class="py-4">
-                            <a href="#" class="btn btn-secondary px-4 ">Go somewhere</a>
+                            <a href="#" class="btn btn-success px-4 ">Request a callback</a>
                         </div>
 
 
@@ -113,7 +113,7 @@
                             <h2 class="card-title">Courses</h2>
                             <p class="card-text pb-5 pt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto
                                 quos nihil voluptates nam facilis maiores vel repudiandae excepturi libero error.</p>
-                            <button type="button" class="btn btn-success">Success</button>
+                            <button type="button" class="btn btn-success">COURSE INFORMATION</button>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                 <div class="d-flex align-items-center">
                     <p class="me-5 pt-2" style="width: 33rem;">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                         Distinctio provident quam pariatur. Corporis, illum aliquam.</p>
-                    <button type="button" class="btn btn-success ms-5 px-5">Success</button>
+                    <button type="button" class="btn btn-success ms-5 px-5">MORE ABOUT US</button>
                 </div>
 
 
@@ -469,10 +469,10 @@ ul {
     width: 750px;
     height: 550px;
     margin: -19px;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
 }
 
 .triangolo-white {
-    margin-top: 40px;
+    margin-top: 43px;
 }
 </style>
